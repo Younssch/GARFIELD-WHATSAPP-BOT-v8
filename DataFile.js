@@ -20,19 +20,19 @@ global.symb2 = '▎ █' // 👈 Enter Any ▬▓▌▎■
 global.symb3 = '▬' // 👈 Enter Any ▅ ▂ ▁ ▊
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = ` *Hi 🥰 I m*
-*ＮＯＩＺ Ξ*
+*BOT CHAMALI Ξ*
 *I am 16 years old developer...*
-*From Sri Lanka 🇱🇰*
+*From  MOOROCO 💙*
 *I am a Learning.*
 *Not more..*
 *Also I am Student*
 *Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+94711502119'] //👈  Enter Your number
-global.premium =  ['+94711502119'] //👈  Enter Your number
-global.ownernomer = '+94711502119' //👈  Enter Your number
+global.owner =  ['+212773160336'] //👈  Enter Your number
+global.premium =  ['+212773160336'] //👈  Enter Your number
+global.ownernomer = '+212773160336' //👈  Enter Your number
 global.ownername = 'ZENOI' //👈 Enter Your name
-global.botname = 'ＧＡＲＦＩＥＬＤ ＢＯＴ' //👈 Enter Your Bot name
-global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝖦𝖺𝗋𝖿𝗂𝖾𝗅𝖽 𝖡𝗈𝗍' //👈 Enter Your Name
+global.botname = 'CHAMALI ＢＯＴ' //👈 Enter Your Bot name
+global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 CHAMALI 𝖡𝗈𝗍' //👈 Enter Your Name
 global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
 global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
 global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
@@ -102,14 +102,14 @@ fs.watchFile(file, () => {
 // New Menu Ui
 /*
 ▬
-▎ Hi  Ｚ Ξ ＮＯＩ 👋 
-▎ ＧＡＲＦＩＥＬＤ ＢＯＴ
+▎ Hi  CHAMALI 👋 
+▎ CHAMALI ＢＯＴ
 ▎ █ 𝗦𝗽𝗲𝗲𝗱 : 0.00119 miliseconds
 ▎ █ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : 9 hours, 58 minutes, 23 seconds
-▎ █ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ＧＡＲＦＩＥＬＤ ＢＯＴ 
-▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : ZENOI
-▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : +94711502119
-▎ █ 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ZENOI
+▎ █ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : CHAMALI ＢＯＴ 
+▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : YOUNSS
+▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : +212773160336
+▎ █ 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : YOUNSS
 ▎ █ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : linux
 ▎ █ 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : 11
    Ｍｅｎｕ Ｃｏｍｍａｎｄｓ🌀
